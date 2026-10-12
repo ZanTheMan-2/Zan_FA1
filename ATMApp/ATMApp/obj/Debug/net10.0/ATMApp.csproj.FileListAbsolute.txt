@@ -1,0 +1,15 @@
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\bin\Debug\net10.0\ATMApp.exe
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\bin\Debug\net10.0\ATMApp.deps.json
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\bin\Debug\net10.0\ATMApp.runtimeconfig.json
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\bin\Debug\net10.0\ATMApp.dll
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\bin\Debug\net10.0\ATMApp.pdb
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.AssemblyInfoInputs.cache
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.AssemblyInfo.cs
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.dll
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\refint\ATMApp.dll
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.pdb
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.genruntimeconfig.cache
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ref\ATMApp.dll
+C:\Users\Chantelle\source\repos\ATMApp\ATMApp\obj\Debug\net10.0\ATMApp.csproj.Up2Date
