@@ -1,0 +1,17 @@
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\bin\Debug\net10.0-windows\FavouriteApp.exe
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\bin\Debug\net10.0-windows\FavouriteApp.deps.json
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\bin\Debug\net10.0-windows\FavouriteApp.runtimeconfig.json
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\bin\Debug\net10.0-windows\FavouriteApp.dll
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\bin\Debug\net10.0-windows\FavouriteApp.pdb
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.Form1.resources
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.csproj.GenerateResource.cache
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.AssemblyInfoInputs.cache
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.AssemblyInfo.cs
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.csproj.CoreCompileInputs.cache
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.dll
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\refint\FavouriteApp.dll
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.pdb
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\FavouriteApp.genruntimeconfig.cache
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\ref\FavouriteApp.dll
+C:\Users\vanwy\source\repos\FavouriteApp\FavouriteApp\obj\Debug\net10.0-windows\Favourit.300C317B.Up2Date
