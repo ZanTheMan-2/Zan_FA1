@@ -1,0 +1,15 @@
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\bin\Debug\net10.0\EmfuleniMunicipality.exe
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\bin\Debug\net10.0\EmfuleniMunicipality.deps.json
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\bin\Debug\net10.0\EmfuleniMunicipality.runtimeconfig.json
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\bin\Debug\net10.0\EmfuleniMunicipality.dll
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\bin\Debug\net10.0\EmfuleniMunicipality.pdb
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.AssemblyInfoInputs.cache
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.AssemblyInfo.cs
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.csproj.CoreCompileInputs.cache
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.dll
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\refint\EmfuleniMunicipality.dll
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.pdb
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\EmfuleniMunicipality.genruntimeconfig.cache
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\ref\EmfuleniMunicipality.dll
+C:\Users\vanwy\source\repos\EmfuleniMunicipality\EmfuleniMunicipality\obj\Debug\net10.0\Emfuleni.3D0E33A4.Up2Date
